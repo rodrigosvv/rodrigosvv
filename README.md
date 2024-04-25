@@ -8,31 +8,26 @@
 <h3 align="left">Tech Stack:</h3>
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/python-_python?logo=python&labelColor=white&color=red" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-_?logo=python&color=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-_?logo=pandas&color=%23313733" /> 
+  <img alt="Numpy" src="https://img.shields.io/badge/Numpy-_?logo=numpy&color=blue" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/BigQuery-_?logo=googlebigquery&color=darkgray" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-_?logo=amazonaws&color=gray" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-_?logo=apachespark&color=yellow" />
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache_Airflow-_?logo=apacheairflow&color=red" />
+  <img alt="Apache Hive" src="https://img.shields.io/badge/Apache%20Hive-_?logo=apachehive&color=green" />
+  <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-_?logo=apachehadoop&color=magenta" />
+  <img alt="SQLServer" src="https://img.shields.io/badge/SQL%20Server-_?logo=microsoftsqlserver&color=orange" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-_?logo=postgresql&logoColor=white&color=%234169E1" />
+  <img alt="Powerbi" src="https://img.shields.io/badge/Power%20BI-_?logo=powerbi&color=%23FEFAC0" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-_?logo=docker&color=lightblue" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-_?logo=git&color=orange" />
+  <img alt="C" src="https://img.shields.io/badge/C-_?logo=c&color=purple" />
+  <img alt="Bash" src="https://img.shields.io/badge/BASH-_?logo=gnubash&logoColor=white&color=black" />
+  <img alt="R" src="https://img.shields.io/badge/R-_?logo=R&color=%235C8180" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-_?logo=microsoftexcel&color=darkgreen" />
+  <img alt="SAP" src="https://img.shields.io/badge/SAP-_?logo=sap&color=%23DBEEFE" />
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-_?logo=notion&logoColor=white&color=%23000000" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
