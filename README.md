@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hey there! I'm Rodrigo, a data enthusiast on a journey to dive deep into the world of data engineering and analytics. 🌟 I'm passionate about building robust data pipelines and mastering the art of ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform). With experience in technologies like Airflow, Docker, dbt, Snowflake, BigQuery, AWS S3, and Power BI, I'm well-equipped to tackle complex data challenges.</h1>
-<h3 align="center">Let's connect and collaborate on all things data! Feel free to reach out via My LinkedIn profile.</h3>
+<h3 align="center">Interested in diving deeper into data engineering or analytics? Feel free to reach out to explore opportunities for collaboration or just to chat about all things data!</h3>
 
 - 💻 In my free time **, you'll often find me tinkering with data projects, refining my skills in data engineering, and exploring the latest trends in cloud computing. I'm currently honing my expertise in AWS, GCP, and Azure, eager to leverage their capabilities in my data endeavors.**
 
