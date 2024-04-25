@@ -4,9 +4,6 @@
 
 - 📊 I'm on a mission to **transition into a Data Engineer role or explore opportunities within the broader data landscape. I'm committed to staying updated with emerging technologies and methodologies, always seeking to expand my knowledge and skill set.**
 
-<h3 align="center">Interested in diving deeper into data engineering or analytics? Feel free to reach out to explore opportunities for collaboration or just to chat about all things data!</h3>
-- Let's connect and collaborate on all things data! Feel free to reach out via My LinkedIn profile or my Gmail. **salazarvegarodrigo@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salazarvegarodrigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salazarvegarodrigo" height="30" width="40" /></a>
