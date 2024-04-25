@@ -22,11 +22,15 @@
   <img alt="Apache Hadoop" src="https://img.shields.io/badge/Apache%20Hadoop-_?logo=apachehadoop&color=magenta" />
   <img alt="SQLServer" src="https://img.shields.io/badge/SQL%20Server-_?logo=microsoftsqlserver&color=orange" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-_?logo=postgresql&logoColor=white&color=%234169E1" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-_?logo=sqlite&color=%23003B57" />
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-_?logo=dbt&logoColor=%23FF694B&color=gray" />
   <img alt="Powerbi" src="https://img.shields.io/badge/Power%20BI-_?logo=powerbi&color=%23FEFAC0" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-_?logo=docker&color=lightblue" />
+  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-_?logo=snowflake&logoColor=white&color=%2329B5E8" />
   <img alt="Git" src="https://img.shields.io/badge/Git-_?logo=git&color=orange" />
   <img alt="C" src="https://img.shields.io/badge/C-_?logo=c&color=purple" />
   <img alt="Bash" src="https://img.shields.io/badge/BASH-_?logo=gnubash&logoColor=white&color=lightgray" />
+  <img alt="YAML" src="https://img.shields.io/badge/YAML-_?logo=yaml&logoColor=white&color=%23CB171E" />
   <img alt="R" src="https://img.shields.io/badge/R-_?logo=R&color=%235C8180" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-_?logo=microsoftexcel&color=darkgreen" />
   <img alt="SAP" src="https://img.shields.io/badge/SAP-_?logo=sap&color=%23DBEEFE" />
