@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rodrigo, a data enthusiast on a journey to dive deep into the world of data engineering and analytics. 🌟 I'm passionate about building robust data pipelines and mastering the art of ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform). With experience in technologies like Airflow, Docker, dbt, Snowflake, BigQuery, AWS S3, and Power BI, I'm well-equipped to tackle complex data challenges.</h1>
-<h3 align="center">Interested in diving deeper into data engineering or analytics? Feel free to reach out to explore opportunities for collaboration or just to chat about all things data!</h3>
+<h2 align="center">Hi 👋, I'm Rodrigo, a data enthusiast on a journey to dive deep into the world of data engineering and analytics. 🌟 I'm passionate about building robust data pipelines and mastering the art of ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform). With experience in technologies like Airflow, Docker, dbt, Snowflake, BigQuery, AWS S3, and Power BI, I'm well-equipped to tackle complex data challenges.</h2>
 
 - 💻 In my free time **, you'll often find me tinkering with data projects, refining my skills in data engineering, and exploring the latest trends in cloud computing. I'm currently honing my expertise in AWS, GCP, and Azure, eager to leverage their capabilities in my data endeavors.**
 
 - 📊 I'm on a mission to **transition into a Data Engineer role or explore opportunities within the broader data landscape. I'm committed to staying updated with emerging technologies and methodologies, always seeking to expand my knowledge and skill set.**
 
+<h3 align="center">Interested in diving deeper into data engineering or analytics? Feel free to reach out to explore opportunities for collaboration or just to chat about all things data!</h3>
 - Let's connect and collaborate on all things data! Feel free to reach out via My LinkedIn profile or my Gmail. **salazarvegarodrigo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
