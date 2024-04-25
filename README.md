@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Rodrigo, a data enthusiast on a journey to dive deep into the world of data engineering and analytics.</h2>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="200"/>
 </div>
 
 
