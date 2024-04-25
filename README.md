@@ -28,7 +28,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-_?logo=docker&color=lightblue" />
   <img alt="Git" src="https://img.shields.io/badge/Git-_?logo=git&color=orange" />
   <img alt="C" src="https://img.shields.io/badge/C-_?logo=c&color=purple" />
-  <img alt="Bash" src="https://img.shields.io/badge/BASH-_?logo=gnubash&logoColor=white&color=black" />
+  <img alt="Bash" src="https://img.shields.io/badge/BASH-_?logo=gnubash&logoColor=white&color=lightgray" />
   <img alt="R" src="https://img.shields.io/badge/R-_?logo=R&color=%235C8180" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-_?logo=microsoftexcel&color=darkgreen" />
   <img alt="SAP" src="https://img.shields.io/badge/SAP-_?logo=sap&color=%23DBEEFE" />
