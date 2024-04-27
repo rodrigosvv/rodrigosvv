@@ -3,10 +3,9 @@
 </div>
 
 
-- 🌟 I'm passionate about **building robust data pipelines and mastering the art of ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform). With experience in technologies like Airflow, Docker, dbt, Snowflake, BigQuery, AWS S3, and Power BI, I'm well-equipped to tackle complex data challenges**
-- 💻 In my free time, **you'll often find me tinkering with data projects, refining my skills in data engineering, and exploring the latest trends in cloud computing. I'm currently honing my expertise in AWS, GCP, and Azure, eager to leverage their capabilities in my data endeavors.**
-
-- 📊 I'm on a mission to **transition into a Data Engineer role or explore opportunities within the broader data landscape. I'm committed to staying updated with emerging technologies and methodologies, always seeking to expand my knowledge and skill set.**
+- 🌟I have a strong interest in **constructing reliable data pipelines and mastering the techniques of ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform). Through my experience with technologies such as Airflow, Docker, dbt, Snowflake, BigQuery, AWS S3, and Power BI, I feel equipped to handle complex data challenges.**
+- 💻 During my free time, **I enjoy coding, particularly working on data projects and refining my skills in data engineering. I also like to stay updated on the latest trends in cloud computing, with a focus on AWS, GCP, and Azure.**
+- 📊 I am currently aiming to **transition into a Data Engineer role or explore opportunities within the broader data landscape. I am dedicated to keeping up with emerging technologies and methodologies, always seeking to expand my knowledge and skill set.**
 
 <h3 align="left">Tech Stack:</h3>
 
